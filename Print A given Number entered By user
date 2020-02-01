@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+int main ()
+{ int i;
+printf("Enter a number");
+scanf("%d",&i);
+if(i==9)
+printf("You have entered 9");
+getch();
+}
