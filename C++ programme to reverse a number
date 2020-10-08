@@ -1,6 +1,6 @@
 #include <iostream>  
 #include<conio.h>
-v 
+
 int main()  
 {  
 int n, reverse=0, rem;    
